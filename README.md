@@ -1,4 +1,6 @@
-We got an overwhelming 255 application for sparring and are obviously not able to meet everyone in person. We did, however, spot some recurring themes that we hope to be able to help with by simply sharing some insights from our top experts. For instance, there was a lot of demand for learning specific technological skills or more generally, getting tips for what is worth learning and how to find learning resources. Hence, let me present, an assortment of frequently asked questions, with answers from our team!
+This started when we offered free sparring sessions with our experts for anyone (developers, designers, consultants..)  in the [Reaktor Development Discussion](https://www.kehittymiskeskustelu.fi/en/) campaign. We quicky got a whopping 255 applications and were obviously not able to meet everyone in person.
+
+We did, however, spot some recurring themes that we hope to be able to help with by simply sharing some insights from our team. For instance, there was a lot of demand for learning specific technological skills or more generally, getting tips for what is worth learning and how to find learning resources. Hence, let me present, an assortment of frequently asked questions, with some answers for most of them!
 
 ### Career progress
 
@@ -16,9 +18,7 @@ So, to become a good software architect, get diverse hands-on experience in soft
 
 ### Methods and working practices
 
-Many seem to be interested in learning Agile methods and modern working practices for software teams. 
-
-So, here are some recommendations from our coaches, mostly from @cryptotommi-joentakanen:
+Many seem to be interested in learning Agile methods and modern working practices for software teams. So, here are some recommendations from our coaches, mostly from @cryptotommi-joentakanen:
 
 - Full map of most things agile: https://www.mindmeister.com/425542788/agile-world?fullscreen=1 
 - Product Owner TL;DR: https://www.youtube.com/watch?v=502ILHjX9EE 
@@ -55,7 +55,9 @@ So, here are some recommendations from our coaches, mostly from @cryptotommi-joe
 Many asked for directions for learning. Here are some popular questions and some answers from our experts.
 
 #### How to stay up to date with rapidly evolving technology  (popular!)
+
 @cryptotommi-joentakanen: Fix your filter. If you’re interested in a particular technology, find out who the insiders in the scene are and then follow who they follow, eliminate other sources of information -> signal to noise. Only follow them on Twitter and Medium. Read everything they write. Find out what the trusted aggregated sources of news and knowledge are. Every conference later gets listed on Youtube, watch the talks on double speed, skip the first third of the video. Participate in meetups and talk to people. Then, think for yourself. Place bets if you’re brave, skin in the game helps you learn and stay up to date.
+
 #### Which technologies are worth learning in the long run
 
 @cryptotommi-joentakanen: Nobody can accurately predict exponential growth of technology over a long period of time, especially post-singularity. But if I had to bet, I would place my money on AI in combination with trustless general purpose computation / decentralisation tech (e.g blockchain / crypto)
