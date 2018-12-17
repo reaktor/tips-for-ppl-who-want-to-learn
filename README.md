@@ -129,6 +129,12 @@ I classified some questions and topics into Core Software Engineering skills, be
 - [Design Patterns - Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8) by the "gang of four"
 - [Refactoring](https://martinfowler.com/books/refactoring.html) by Martin Fowler
 
+@raimohanska Then some more functional-programming oriented books:
+
+- SICP, i.e [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html) now freely available online
+- Programming in Scala [free pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=2ahUKEwiK_siZv6bfAhXFkCwKHbIvCXUQFjACegQIDRAC&url=http%3A%2F%2Fccfit.nsu.ru%2F~den%2FScala%2Fprogramming_in_scala_2nd.pdf&usg=AOvVaw0VTPIIb_4O7k3ibNrfPKnu)
+- Real World Haskell [free pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwjvvZbav6bfAhUGFSwKHRJrBtIQFjABegQIBBAC&url=https%3A%2F%2Fpage.mi.fu-berlin.de%2Fscravy%2Frealworldhaskell%2Fmaterialien%2Freal-world-haskell.pdf&usg=AOvVaw3ahZgS_Od_DI0wjjIPlz3m)
+
 @auramo points out a couple of "programming philosophy" presentations for the "post-object-oriented" world.
 - The Value of Values with Rich Hickey https://www.youtube.com/watch?v=-6BsiVyC1kM
 - Simple Made Easy https://www.infoq.com/presentations/Simple-Made-Easy
