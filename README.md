@@ -208,7 +208,9 @@ Javascript skills in general are highly useful in all things web, as you can use
 
 #### Random tips
 Some randomish tips from our experts for web development:
+
 @timorantalaiho Plan and test for performance from the start (`ab` https://httpd.apache.org/docs/2.4/programs/ab.html is a good friend of anyone working with REST APIs). Just remember to not optimise prematurely.
+
 @paavohuhtala  Invest in developer experience. Hot reload, fast build times, and type hints in your editor of choice can be massive boosts to productivity, even in smaller projects.
 
 Then, some very specific technologies were mentioned quite a few times too, including
