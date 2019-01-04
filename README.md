@@ -2,55 +2,64 @@ This started when we offered free sparring sessions with our experts for anyone 
 
 We did, however, spot some recurring themes that we hope to be able to help with by simply sharing some insights from our team. For instance, there was a lot of demand for learning specific technological skills or more generally, getting tips for what is worth learning and how to find learning resources. Hence, let me present, an assortment of frequently asked questions, with some answers to most of them!
 
-Huge thanks to all Reaktorians who offered their help! 
+Huge thanks to all Reaktorians who offered their help!
 
 ### Career progress
 
 The whole idea of this campaign was to help people with their careers and skills development and many were wondering what are the possible career paths for developers and  more specifically, how to get from developer to architect or consultant.
 
-Only half-jokingly, the traditional career path for developers is to promote the best of them to a managerial position so that they can no longer do what they do best. In a flat-hierarchy technology consultancy like Reaktor, there are many other options though. You can extend your knowledge horizontally to different domains and technologies or vertically almost infinitely deeper into specific topics, or "higher up" to overall architecture or technology strategy. 
+Only half-jokingly, the traditional career path for developers is to promote the best of them to a managerial position so that they can no longer do what they do best. In a flat-hierarchy technology consultancy like Reaktor, there are many other options though. You can extend your knowledge horizontally to different domains and technologies or vertically almost infinitely deeper into specific topics, or "higher up" to overall architecture or technology strategy.
 
 You can extend your reach also to the business side of things, helping clients not only with technology, but also with improving theirs business. Not to mention taking part in developing your company itself. Then, the borders between design (business, product, user interface, visuals) and technology are made to be crossed too and being able to contribute on a broader spectrum is highly appreciated and also something we help people to achieve. So, starting from a "mere" software developer, there are infinitely many different paths you can take, given you have the motivation to do so.
 
 So, as a developer you can go to all directions (H, J, K and L if you know what I mean), but staying put is not an option, because of obvious reasons. Always keep learning and expanding your skills, and remember to step out of your comfort zone.
 
-So, how to become a software architect? There are many kinds of architects, for sure, but IMO a good software architect is someone who can come up with realistic plans for implementing a larger-scale software system, and actually implement them too with a team. You’ll need deep and wide hands of experience with different technologies, some stories of success and failure.  It’s essential to understand that you cannot just draw a diagram in PowerPoint and ask someone to code it. You can only plan your architecture up to a point and have to verify your assumptions at a sufficiently early stage of development to avoid huge mistakes from showing up in a later stage when they are harder to fix. You cannot isolate yourself into the proverbial ivory tower, because need to understand your application domain, your customer and your team. To achieve this you’re actually going to have to talk to people a lot. I wholly agree on system architecture usually reflecting the structure of the organization that’s been working on on it. To make all pieces fit optimally, the people working on them should work together towards the same goal and *communicate*. 
+So, how to become a software architect? There are many kinds of architects, for sure, but IMO a good software architect is someone who can come up with realistic plans for implementing a larger-scale software system, and actually implement them too with a team. You’ll need deep and wide hands of experience with different technologies, some stories of success and failure.  It’s essential to understand that you cannot just draw a diagram in PowerPoint and ask someone to code it. You can only plan your architecture up to a point and have to verify your assumptions at a sufficiently early stage of development to avoid huge mistakes from showing up in a later stage when they are harder to fix. You cannot isolate yourself into the proverbial ivory tower, because need to understand your application domain, your customer and your team. To achieve this you’re actually going to have to talk to people a lot. I wholly agree on system architecture usually reflecting the structure of the organization that’s been working on on it. To make all pieces fit optimally, the people working on them should work together towards the same goal and *communicate*.
 
 So, to become a good software architect, get diverse hands-on experience in software development, get involved in decision making and ask a lot of questions to understand why certain decisions are made. To be able to pick the best option, you need to understand your success criteria, be aware of a wide range of options and validate your decisions with data.
 
 ### Methods and working practices
 
+Recommended books about teamwork and self improvement:
+
+- [The Anatomy of Peace: Resolving the Heart of Conflict](https://www.amazon.de/Anatomy-Peace-Resolving-Heart-Conflict/dp/1626564310/)
+- [Leadership and Self-Deception: Getting Out of the Box](https://www.amazon.de/Leadership-Self-Deception-Getting-Out-Box/dp/1523097809/)
+- [The Five dysfunctions of a team](https://www.amazon.de/Five-Dysfunctions-Team-Leadership-Lencioni/dp/0787960756/)
+- [Switch: How to change things when change is hard](https://www.amazon.de/Switch-change-things-when-hard/dp/1847940323/)
+- [Mindset: The New Psychology of Success](https://www.amazon.de/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/)
+- [The Power of Habit: Why We Do What We Do, and How to Change](https://www.amazon.de/Power-Habit-Why-What-Change/dp/1847946240/)
+
 Many seem to be interested in learning Agile methods and modern working practices for software teams. So, here are some recommendations from our coaches, mostly from @cryptotommi-joentakanen:
 
-- Full map of most things agile: https://www.mindmeister.com/425542788/agile-world?fullscreen=1 
-- Product Owner TL;DR: https://www.youtube.com/watch?v=502ILHjX9EE 
-- Kanban: TL;DR https://www.youtube.com/watch?v=R8dYLbJiTUE, Advanced: Eric Brechner – https://www.youtube.com/watch?v=CD0y-aU1sXo 
+- Full map of most things agile: https://www.mindmeister.com/425542788/agile-world?fullscreen=1
+- Product Owner TL;DR: https://www.youtube.com/watch?v=502ILHjX9EE
+- Kanban: TL;DR https://www.youtube.com/watch?v=R8dYLbJiTUE, Advanced: Eric Brechner – https://www.youtube.com/watch?v=CD0y-aU1sXo
 - Jeff Sutherland’s “Scrum” Audiobook: https://www.youtube.com/watch?v=qr8hjVX4GX0
 - Craig Larman’s LeSS (Scaling Scrum) book https://www.amazon.com/Large-Scale-Scrum-More-Craig-Larman/dp/0321985710
 - Ran Nyman – https://www.youtube.com/watch?v=ZISdTPrtS0o
-- Craig Larman – https://www.youtube.com/watch?v=HmdGvq_8rVQ 
+- Craig Larman – https://www.youtube.com/watch?v=HmdGvq_8rVQ
 - Richard Hackman’s Leading Teams (Performance): https://www.amazon.com/Leading-Teams-Setting-Stage-Performances/dp/1578513332/ref=sr_1_1?s=books&ie=UTF8&qid=1544604704&sr=1-1&keywords=leading+teams
 - Evolutionary Teal Paradigm (the one we’re currently in)
     - Reinventing Organizations
         - Frederic Laloux - https://www.youtube.com/watch?v=gcS04BI2sbk
-        - Book: https://www.amazon.com/Reinventing-Organizations-Frederic-Laloux/dp/2960133501/ref=sr_1_1?ie=UTF8&qid=1544606623&sr=8-1&keywords=reinventing+organizations 
+        - Book: https://www.amazon.com/Reinventing-Organizations-Frederic-Laloux/dp/2960133501/ref=sr_1_1?ie=UTF8&qid=1544606623&sr=8-1&keywords=reinventing+organizations
     - Holocracy
         - Brian Robertson - https://www.youtube.com/watch?v=tJxfJGo-vkI
         - Book: https://www.amazon.com/Holacracy-Management-System-Rapidly-Changing/dp/162779428X/ref=sr_1_1?ie=UTF8&qid=1544606636&sr=8-1&keywords=holacracy
 - Could be the next paradigm after Teal:
     - Fred George’s Developer Anarchy (Managing Manager‐less Processes) https://www.youtube.com/watch?v=Zop0wTPrbk8 (In use at pioneering tech startups like Parity.io)
-    - Distributed Teams: https://medium.com/boost-vc/distributed-teams-dont-forget-the-fun-780427fa1cd5 
-    - Remote first: https://www.forbes.com/sites/michalbohanes/2018/10/10/how-to-manage-a-distributed-team-5-best-practices-from-uk-startup-leaders/#4850255c4720 
-    - Nature of the firm 2.0 by Joe Lubin https://www.youtube.com/watch?v=SQbcGhnv4jw 
+    - Distributed Teams: https://medium.com/boost-vc/distributed-teams-dont-forget-the-fun-780427fa1cd5
+    - Remote first: https://www.forbes.com/sites/michalbohanes/2018/10/10/how-to-manage-a-distributed-team-5-best-practices-from-uk-startup-leaders/#4850255c4720
+    - Nature of the firm 2.0 by Joe Lubin https://www.youtube.com/watch?v=SQbcGhnv4jw
 - Systems Thinking:
     - Russ Ackoff – https://www.youtube.com/watch?v=OqEeIG8aPPk
-    - Peter Sange – https://www.youtube.com/watch?v=0QtQqZ6Q5-o 
-- Motivation- Pan Pink – https://www.youtube.com/watch?v=u6XAPnuFjJc 
-- Business Agility -Jim Highsmith – https://www.youtube.com/watch?v=EEj6zVipqq0 
-- Lean Startup - Eric Ries – https://www.youtube.com/watch?v=fEvKo90qBns 
+    - Peter Sange – https://www.youtube.com/watch?v=0QtQqZ6Q5-o
+- Motivation- Pan Pink – https://www.youtube.com/watch?v=u6XAPnuFjJc
+- Business Agility -Jim Highsmith – https://www.youtube.com/watch?v=EEj6zVipqq0
+- Lean Startup - Eric Ries – https://www.youtube.com/watch?v=fEvKo90qBns
 - Blogs of Reaktorians:
-    - Jarkko Kailanto: https://coachjarkko.com/ 
-    - Sami Lilja: https://samililja.wordpress.com/ 
+    - Jarkko Kailanto: https://coachjarkko.com/
+    - Sami Lilja: https://samililja.wordpress.com/
 
 ### Directions for learning
 
@@ -79,7 +88,7 @@ Many asked for directions for learning. Here are some popular questions and some
 - Low-level stuff, assembly, memory and processors
 - Databases, different flavors including relational, document storage, data warehouses, ACID, consistency models, scalability, replication, sharding...
 
-#### Skills and technologies to learn to get a job! (popular!) 
+#### Skills and technologies to learn to get a job! (popular!)
 ... and relatedly, how to get a job without previous working experience?
 
 @raimohanska To land a job as a coder, make sure you've got your basics covered (see above). Build a portfolio (on Github or similar) of your work. This implies that you need to have done some coding! If you haven't pick something interesting and build it. Then show it off. The deeper and more diverse skills you can demonstrate the better. Always remember to write a README for any repository to point out what this is about, what tecnhologies you're using and why. And how to build and run your application. Write a CV that points our your key skills and achievements and *what you actually want do do*. Be sure to include language (spoken and written) skills and place of residence!
@@ -113,9 +122,9 @@ Some were seeking the best resources for learning in general, but this is someth
 
 Yet, as @cryptotommi-joentakanen said: Can’t beat books, if you had to choose one.
 
-- Value, success, happiness, learning to learn 
-    - https://twitter.com/naval/status/1002103360646823936?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1002103360646823936&ref_url=https%3A%2F%2Fmedium.com%2Fmedia%2F7176a1ee4cdeec7e82b0139f16bb7a65%3FpostId%3Da5fd60ac5788 
-    - https://medium.com/@bensimblog/15-lessons-i-learnt-on-success-happiness-reading-love-and-life-from-naval-ravikant-6808ac8d7b2 
+- Value, success, happiness, learning to learn
+    - https://twitter.com/naval/status/1002103360646823936?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1002103360646823936&ref_url=https%3A%2F%2Fmedium.com%2Fmedia%2F7176a1ee4cdeec7e82b0139f16bb7a65%3FpostId%3Da5fd60ac5788
+    - https://medium.com/@bensimblog/15-lessons-i-learnt-on-success-happiness-reading-love-and-life-from-naval-ravikant-6808ac8d7b2
 
 ### Core Software Engineering skills
 
@@ -151,7 +160,7 @@ https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321
 @cryptotommi-joentakanen tips for Site Reliability Engineering:
 - DropBox – https://www.youtube.com/watch?v=ggizCjUCCqE
 - Uber – https://www.youtube.com/watch?v=qJnS-EfIIIE
-- Atlassian – https://www.youtube.com/watch?v=LMguiL0a90I 
+- Atlassian – https://www.youtube.com/watch?v=LMguiL0a90I
 
 #### Building systems with good data security
 #### Build tools and pipelines
@@ -192,15 +201,15 @@ Also, make sure you have enough information to make your decision and be prepare
 - Kevin Goldsmith (Spotify) https://www.youtube.com/watch?v=7LGPeBgNFuU
 - Ruslan Meshenberg (Netflix) – https://www.youtube.com/watch?v=57UK46qfBLY
 - Rodrigue Schaefer (Zalando) – https://www.youtube.com/watch?v=gEeHZwjwehs
-- Randy Shoup (Google, eBay) – https://www.youtube.com/watch?v=9vS7TbgirgY 
+- Randy Shoup (Google, eBay) – https://www.youtube.com/watch?v=9vS7TbgirgY
 
 #### Serverless solutions
 
-#### Single Page Application best practices: 
+#### Single Page Application best practices:
 @eagleflo make your app “deep linkable”. Store state in the URL, so that each person who clicks a link will see the same content. Seen way too many SPAs which don’t follow that, kind of breaking what it means to be a *web* app.
 
 #### Learning Javascript
-Javascript skills in general are highly useful in all things web, as you can use the same language on both client and server. 
+Javascript skills in general are highly useful in all things web, as you can use the same language on both client and server.
 
 @henrikauppinen Invest enough time in learning the foundations, you will reap the benefits by being able to look at and dig deeper into any library or framework. Here are some links for learning Javascript!
 
