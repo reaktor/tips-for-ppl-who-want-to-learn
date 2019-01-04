@@ -82,7 +82,7 @@ Many asked for directions for learning. Here are some popular questions and some
 #### Skills and technologies to learn to get a job! (popular!) 
 ... and relatedly, how to get a job without previous working experience?
 
-@raimohanska To land a job as a coder, make sure you've got your basics covered (see above). Build a portfolio (on Github or similar) of your work. This implies that you need to have done some coding! If you haven't pick something interesting and build it. Then show it off. The deeper and more diverse skills you can demonstrate the better. Always remember to write a README for any repository to point out what this is about, what tecnhologies you're using and why. And how to build and run your application. Write a CV that points our your key skills andj achievements and *what you actually want do do*. Be sure to include language (spoken and written) skills and place of residence!
+@raimohanska To land a job as a coder, make sure you've got your basics covered (see above). Build a portfolio (on Github or similar) of your work. This implies that you need to have done some coding! If you haven't pick something interesting and build it. Then show it off. The deeper and more diverse skills you can demonstrate the better. Always remember to write a README for any repository to point out what this is about, what tecnhologies you're using and why. And how to build and run your application. Write a CV that points our your key skills and achievements and *what you actually want do do*. Be sure to include language (spoken and written) skills and place of residence!
 
 #### What kind of workplace should I seek, to learn better
 
@@ -140,7 +140,7 @@ I classified some questions and topics into Core Software Engineering skills, be
 - Simple Made Easy https://www.infoq.com/presentations/Simple-Made-Easy
 - ... and also the ever-relevant [Domain Driven Design](Domain Driven Design
 https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) by Eric Evans.
-- Also Steve Yegge's rants, highly opiniated, have been very influential. For example: https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html
+- Also Steve Yegge's rants, highly opinionated, have been very influential. For example: https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html
 
 @eagleflow I’ve read http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/ multiple times. Everyone who is interested in programming language design should read it. tl;dr: there are costs to introducing additional colors of functions to your codebase. Weight the options carefully.
 
