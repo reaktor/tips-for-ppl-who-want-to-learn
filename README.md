@@ -73,25 +73,35 @@ Many asked for directions for learning. Here are some popular questions and some
 
 @cryptotommi-joentakanen: Nobody can accurately predict exponential growth of technology over a long period of time, especially post-singularity. But if I had to bet, I would place my money on AI in combination with trustless general purpose computation / decentralisation tech (e.g blockchain / crypto)
 
-@raimohanska My tip is to make sure understand the relatively static basics before jumping to any flavor-of-the day bandwagon. Here are some basics I'd make sure to cover. Probably forgetting many key areas.
-
-- Object-oriented programming and patterns
-- Functional programming
-- Imperative vs Declarative
-- Operating systems
-- Different types of environments (consider Java vs C vs Javascript)
-- Networking (HTTPS, TCP/IP) and infrastructure (from servers to virtual machines to cloud computing to serverless/PAAS)
-- Web technologies (WWW, HTML, CSS)
-- Concurrency and parallelism, distributed computing
-- Algorithms, data structures and complexity
-- State machines, formal languages, parsers and compilers
-- Low-level stuff, assembly, memory and processors
-- Databases, different flavors including relational, document storage, data warehouses, ACID, consistency models, scalability, replication, sharding...
+@raimohanska My tip is to make sure understand the relatively static basics before jumping to any flavor-of-the day bandwagon. See my "skills list" below.
 
 #### Skills and technologies to learn to get a job! (popular!)
 ... and relatedly, how to get a job without previous working experience?
 
-@raimohanska To land a job as a coder, make sure you've got your basics covered (see above). Build a portfolio (on Github or similar) of your work. This implies that you need to have done some coding! If you haven't pick something interesting and build it. Then show it off. The deeper and more diverse skills you can demonstrate the better. Always remember to write a README for any repository to point out what this is about, what tecnhologies you're using and why. And how to build and run your application. Write a CV that points our your key skills and achievements and *what you actually want do do*. Be sure to include language (spoken and written) skills and place of residence!
+@raimohanska To land a job as a coder, make sure you've got your basics covered. Build a portfolio (on Github or similar) of your work. This implies that you need to have done some coding! If you haven't pick something interesting and build it. Then show it off. The deeper and more diverse skills you can demonstrate the better. Always remember to write a README for any repository to point out what this is about, what tecnhologies you're using and why. And how to build and run your application. Write a CV that points our your key skills and achievements and *what you actually want do do*. Be sure to include language (spoken and written) skills and place of residence!
+
+Here are some basics I'd make sure to cover at some depth, at least.
+
+- Depth and width of skillset: need to have at least 1 domain (preferably more) where you’re ready to go and productive. Could be, for instance, frontend development with React or backend integrations with Scala. The narrower your applicable skillset is, the deeper it has to be.
+- Understanding, analysing and writing good and maintainable code
+- Refactoring with confidence based on a sufficient set of automatic tests
+- Communications, talking about code, understanding other’s code, code reviewing
+- Version control best practises and knowhow
+- Deploying code with various techniques, understanding the infrastructure your code is running on
+- Different levels of abstraction and different type systems. For instance, C vs Java vs JS.
+- Paradigms like OOP, FP, imperative vs declarative. For instance, C vs Java vs Typescript vs Haskell
+- Memory management, stack, heap, static, GC, borrowing, ref counting. Understanding the different approaches in programming languages, for instance C vs Rust vs Swift vs Python.
+- Algorithms, data structures and complexity. What’s wrong with O(n^2)?
+- State machines, formal languages, parsers and compilers
+
+More specific skills (too name a few)
+
+- Web and networking fundamentals. HTTP(S), TCP, TLS, REST, HTML, XML, JSON, CORS...
+- Cloud infrastructure understanding and automation skills
+- Web / mobile frontend skills with different technologies
+- Architecture of large-scale distributed systems
+- Unix system and command-line skills
+- Databases, different flavors including relational, document storage, data warehouses, ACID, consistency models, scalability, replication, sharding...
 
 #### What kind of workplace should I seek, to learn better
 
@@ -107,7 +117,7 @@ Many asked for directions for learning. Here are some popular questions and some
 
 #### What are the most important skills for a “full-stack developer”  (popular!)
 
-@raimohanska see my point on covering the basics above. Then consider your definition of full-stack: mine includes not only frontend and backend javascript. My kind of full-stack developer knows how to deliver value to their customers (be they inhouse or a client) by not only considering the *how* but also making sure you have a common understanding on *what* are the most important things to do. Yet, to get back to actual developer skills, you should have a solid understanding of web technologies, networking, runtime infrastructure, databases etc. It's good to know your tools under the hood, but also to know more than one tool for the job. Get out of your comfort zone and keep learning.
+@raimohanska Make sure understand the relatively static basics first. Then consider your definition of full-stack: mine includes not only frontend and backend javascript. My kind of full-stack developer knows how to deliver value to their customers (be they inhouse or a client) by not only considering the *how* but also making sure you have a common understanding on *what* are the most important things to do. Yet, to get back to actual developer skills, you should have a solid understanding of web technologies, networking, runtime infrastructure, databases etc. It's good to know your tools under the hood, but also to know more than one tool for the job. Get out of your comfort zone and keep learning.
 
 #### What should I learn to diversify my skills
 @cryptotommi-joentakanen:
