@@ -73,7 +73,7 @@ Many asked for directions for learning. Here are some popular questions and some
 
 @cryptotommi-joentakanen: Nobody can accurately predict exponential growth of technology over a long period of time, especially post-singularity. But if I had to bet, I would place my money on AI in combination with trustless general purpose computation / decentralisation tech (e.g blockchain / crypto)
 
-@raimohanska My tip is to make sure understand the relatively static basics before jumping to any flavor-of-the day bandwagon. See my "skills list" below.
+@raimohanska My tip is to make sure understand the relatively static basics before jumping to any flavor-of-the day bandwagon. See my ["skills list"](#skills-and-technologies-to-learn-to-get-a-job-popular) below.
 
 #### Skills and technologies to learn to get a job! (popular!)
 ... and relatedly, how to get a job without previous working experience?
@@ -117,7 +117,7 @@ More specific skills (too name a few)
 
 #### What are the most important skills for a “full-stack developer”  (popular!)
 
-@raimohanska Make sure understand the relatively static basics first. Then consider your definition of full-stack: mine includes not only frontend and backend javascript. My kind of full-stack developer knows how to deliver value to their customers (be they inhouse or a client) by not only considering the *how* but also making sure you have a common understanding on *what* are the most important things to do. Yet, to get back to actual developer skills, you should have a solid understanding of web technologies, networking, runtime infrastructure, databases etc. It's good to know your tools under the hood, but also to know more than one tool for the job. Get out of your comfort zone and keep learning.
+@raimohanska Make sure understand the relatively static basics first and check my ["skills list"](#skills-and-technologies-to-learn-to-get-a-job-popular). Then consider your definition of full-stack: mine includes not only frontend and backend javascript. My kind of full-stack developer knows how to deliver value to their customers (be they inhouse or a client) by not only considering the *how* but also making sure you have a common understanding on *what* are the most important things to do. Yet, to get back to actual developer skills, you should have a solid understanding of web technologies, networking, runtime infrastructure, databases etc. It's good to know your tools under the hood, but also to know more than one tool for the job. Get out of your comfort zone and keep learning.
 
 #### What should I learn to diversify my skills
 @cryptotommi-joentakanen:
