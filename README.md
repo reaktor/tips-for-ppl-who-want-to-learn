@@ -164,6 +164,13 @@ https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321
 @eagleflow I’ve read http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/ multiple times. Everyone who is interested in programming language design should read it. tl;dr: there are costs to introducing additional colors of functions to your codebase. Weight the options carefully.
 
 #### Test automation
+
+@Korkkii Test automation is in my opinion crucial for maintainability of a code base, because it allows you to add features, refactor code and fix bugs while ensuring that you most likely did not break existing functionality. When developing a new feature or fixing a bug, make it a habit  to add some test cases that check for the cases you noticed to be most relevant. You don’t need to achieve 100% code coverage for whole codebase as long as you achieve a high number for the most critical parts of your code whether that is your business logic, routing logic, or some other must-not-break part of the codebase. In many cases, [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) works so you gain most of the test benefits by building good automated tests for the most critical parts of the codebase.
+
+Good automated tests are usually independent of each other, fast and test expected behaviour instead of internals. The independence of tests guarantees that you can run only the one failing test in isolation in order to find what is broken and fix it. This way you can find the problems faster due less clutter. Second, fast tests provide you short feedback loop that allows less interruptions when concentrating. Your unit tests especially should run fast (seconds, maximum of couple minutes for huge codebase’s all tests) and if they don’t, it pays off to improve the performance of your test suites. Lastly, tests should not break when tested code’s internals change while their functionality stays the same. When writing a test for some behaviour, I suggest comment out the behaviour you are testing and make sure the expected tests fail. This check makes sure that your tests are actually testing what you hope them to be testing. Writing behaviour-based tests is usually the hardest part to do correct and I personally learned it from and liked the way it was taught in [Robert Martin’s Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882). 
+
+For more about good test automation, I suggest reading about [software testing anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html) which goes through many very typical mishaps about testing and provides good alternatives to try out.
+
 #### Writing modular code
 #### Developing for maintainability and reliability
 
