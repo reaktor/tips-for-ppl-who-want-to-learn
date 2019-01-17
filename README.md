@@ -117,7 +117,7 @@ More specific skills (too name a few)
 
 #### What are the most important skills for a “full-stack developer”  (popular!)
 
-@raimohanska Make sure understand the relatively static basics first and check my ["skills list"](#skills-and-technologies-to-learn-to-get-a-job-popular). Then consider your definition of full-stack: mine includes not only frontend and backend javascript. My kind of full-stack developer knows how to deliver value to their customers (be they inhouse or a client) by not only considering the *how* but also making sure you have a common understanding on *what* are the most important things to do. Yet, to get back to actual developer skills, you should have a solid understanding of web technologies, networking, runtime infrastructure, databases etc. It's good to know your tools under the hood, but also to know more than one tool for the job. Get out of your comfort zone and keep learning.
+@raimohanska Make sure understand the relatively static basics first and check my ["skills list"](#skills-and-technologies-to-learn-to-get-a-job-popular). Then consider your definition of full-stack: mine includes not only frontend and backend javascript. My kind of full-stack developer knows how to deliver value to their customers (be they inhouse or a client) by not only considering the *how* but also making sure you have a common understanding on *what* are the most important things to do. Yet, to get back to actual developer skills, you should have a solid [understanding of web technologies](#understanding-web-technologies), networking, runtime infrastructure, databases etc. It's good to know your tools under the hood, but also to know more than one tool for the job. Get out of your comfort zone and keep learning.
 
 #### What should I learn to diversify my skills
 @cryptotommi-joentakanen:
@@ -193,6 +193,13 @@ Also, make sure you have enough information to make your decision and be prepare
 ### Web Technologies
 
 #### Understanding web technologies
+
+@raimohanska Here are some beginner-friendly learning resources from my collagues:
+
+- @eagleflo Mozilla - Getting started with the Web https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
+- @matthiaskern Eloquent Javascript https://eloquentjavascript.net/index.html
+- @raine Web developer roadmap https://github.com/kamranahmedse/developer-roadmap might be a bit intimidating but gives you an idea on what there is to learn. You don't have to know all this stuff to be productive though!
+- @kenkku The Helsinki University has a good Fullstack MOOC http://moocfi.github.io/courses/2018/fullstack/
 
 #### How to select frontend tools
 
@@ -386,3 +393,4 @@ As an added bonus, we compiled a list of tech-related YouTube-channels that we, 
 
 - Computer History Museum: https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg
 - Two Minute Papers: https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg
+
