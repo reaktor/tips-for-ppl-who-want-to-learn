@@ -221,7 +221,10 @@ Also, make sure you have enough information to make your decision and be prepare
 - Randy Shoup (Google, eBay) – https://www.youtube.com/watch?v=9vS7TbgirgY
 
 #### Serverless solutions
+
 @simoraman Often when people hear serverless they think AWS Lambda. However AWS Fargate is also a form of serverless computing.  It removes the server setup and management work without requiring complete paradigm shift regarding how the application is built.  Docker technology is not tied to AWS and the software could also be deployed to regular server without docker without the need for a rewrite. It should be noted that in regards of pricing and scalability Fargate is very different from Lambda.
+@raimohanska For starters, serverless means just that you're running your code on somebody else's servers. 
+I agree with Simo and would like to point out that also easy-to-use PaaS services like Heroku are very much serverless too in the sense that you can easily push your application online and have the service provider take care of setting up servers and scaling out. The main difference to, say, AWS lambda is though that you'll be paying for the resources (instances, dynos whatnow) you've reserved while with Lambda you only pay for the computations that actually occurred. Also, don't confuse the serverless concept with [Serverless framework](https://serverless.com/) which allegedly make it easy to build serverless applications.
 
 #### Single Page Application best practices:
 @eagleflo make your app “deep linkable”. Store state in the URL, so that each person who clicks a link will see the same content. Seen way too many SPAs which don’t follow that, kind of breaking what it means to be a *web* app.
