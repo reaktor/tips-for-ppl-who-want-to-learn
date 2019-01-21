@@ -8,6 +8,8 @@ We did, however, spot some recurring themes that we hope to be able to help with
 
 Huge thanks to all Reaktorians who offered their help!
 
+---
+
 ### Career progress
 
 The whole idea of this campaign was to help people with their careers and skills development and many were wondering what are the possible career paths for developers and  more specifically, how to get from developer to architect or consultant.
@@ -21,6 +23,8 @@ So, as a developer you can go to all directions (H, J, K and L if you know what 
 So, how to become a software architect? There are many kinds of architects, for sure, but IMO a good software architect is someone who can come up with realistic plans for implementing a larger-scale software system, and actually implement them too with a team. You’ll need deep and wide hands of experience with different technologies, some stories of success and failure.  It’s essential to understand that you cannot just draw a diagram in PowerPoint and ask someone to code it. You can only plan your architecture up to a point and have to verify your assumptions at a sufficiently early stage of development to avoid huge mistakes from showing up in a later stage when they are harder to fix. You cannot isolate yourself into the proverbial ivory tower, because need to understand your application domain, your customer and your team. To achieve this you’re actually going to have to talk to people a lot. I wholly agree on system architecture usually reflecting the structure of the organization that’s been working on on it. To make all pieces fit optimally, the people working on them should work together towards the same goal and *communicate*.
 
 So, to become a good software architect, get diverse hands-on experience in software development, get involved in decision making and ask a lot of questions to understand why certain decisions are made. To be able to pick the best option, you need to understand your success criteria, be aware of a wide range of options and validate your decisions with data.
+
+---
 
 ### Methods and working practices
 
@@ -64,6 +68,8 @@ Many seem to be interested in learning Agile methods and modern working practice
 - Blogs of Reaktorians:
     - Jarkko Kailanto: https://coachjarkko.com/
     - Sami Lilja: https://samililja.wordpress.com/
+
+---
 
 ### Directions for learning
 
@@ -140,6 +146,8 @@ Yet, as @cryptotommi-joentakanen said: Can’t beat books, if you had to choose 
     - https://twitter.com/naval/status/1002103360646823936?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1002103360646823936&ref_url=https%3A%2F%2Fmedium.com%2Fmedia%2F7176a1ee4cdeec7e82b0139f16bb7a65%3FpostId%3Da5fd60ac5788
     - https://medium.com/@bensimblog/15-lessons-i-learnt-on-success-happiness-reading-love-and-life-from-naval-ravikant-6808ac8d7b2
 
+---
+
 ### Core Software Engineering skills
 
 I classified some questions and topics into Core Software Engineering skills, because they are relevant in all kinds of software development, whether it's embedded, web, cloud or mobile.
@@ -201,6 +209,8 @@ When picking your technologies, you might want to involve the whole team in the 
 
 Also, make sure you have enough information to make your decision and be prepared to take it back. It might make sense to make a list of concerns with a choice, then eliminate the concerns by building a "spike" solution that focuses on them. For instance, if you're concerned about the performance of a system based on a certain technology (you should be!) build the minimal viable performance test setup to find out how things play out.
 
+---
+
 ### Web Technologies
 
 #### Understanding web technologies
@@ -216,13 +226,17 @@ Also, make sure you have enough information to make your decision and be prepare
 
 @tknuutin If you're just starting to learn a given area of tech, like frontend, it's probably a good idea to stick to one of the current industry standards. Even if they can be "flavor of the month" and get untrendy in a couple of years, they're probably at least not completely awful and broken and there's likely a lot of help available in various communities. It's also good to select as few as you can get away with. Start with just a couple of tools, then add more once you start to feel the pain, so to speak. The current trendy options would seem be React, Angular, or Vue (I recommend React).
 @lauripiispanen Since I personally believe that work can be a very good educator, as a beginner it makes sense to study the most common options just to make yourself more "employable". Hence I'd definitely recommend React.
+
 #### Backend skills
+
 @eagleflo Take time to learn SQL. It’s one of those gifts from the early 70s, and it’s not going anywhere. It doesn’t take that much time to grok how relational databases work, and that skill will come in handy in basically every backend project you ever work on. You don’t have to become a full-fledged DBA in order to be confident in your ability to design sane schemas, migrating insane legacy schemas towards sanity, and writing efficient queries. Also, check this out: https://use-the-index-luke.com/
 
 #### Developing scalable web services
+
 @kettuniko The Twelve Factor App (https://12factor.net/) gives good practises for building scalable services.
 
 #### Microservice backed design
+
 @cryptotommi-joentakanen has some suggestions for you!
 
 - Martin Fowler – https://www.youtube.com/watch?v=wgdBVIX9ifA
@@ -281,6 +295,8 @@ My recommendation is to first use just Redux without any other plugins for it, a
 #### Javascript Promises
 @raimohanska Promises are now part of the ES standard and you should master them. The async-await syntax makes their use easier to understand and less error-prone, but make sure you understand how promises work underneath, too.
 
+---
+
 ### Cloud and infrastructure skills
 Unsurprisingly, many are seeking to get or stay aboard the cloud infrastructure fast train.
 
@@ -314,6 +330,8 @@ I think @jylitalo's answer to the next question is very relevant when talking ab
 #### Containers/docker
 #### Kafka
 
+---
+
 ### Mobile development
 
 There are some many ways to do mobile these days, starting with native iOS and Android development and the very promising cross-platform [Flutter](https://flutter.io/?gclid=Cj0KCQiA3b3gBRDAARIsAL6D-N8r8pFzi0KQf3lvEgBCPGirUlpLlSQilQdoI6cxK0n70Knc_Aj8P84aAifDEALw_wcB), not to forget the possibility of writing a [PWA](https://developers.google.com/web/progressive-web-apps/) (just a web page really) that fit some needs pretty well too. For both of these good starting points are [here](https://developers.google.com/training/).
@@ -331,6 +349,8 @@ To call the API’s you will need to handle the concurrency. Android blocks asyn
 #### iOS
 
 @WickedLynx If you go with iOS, you might want to start with this online course and check out this always updated “mega list” for iOS. Don’t let the number of alternatives stop you from starting to learn though!
+
+---
 
 ### Getting started with ML, AI (popular!)
 
@@ -352,6 +372,8 @@ Asking our experts (and beginners) I got a really varied set of stories how peop
 - @eagleflo When I first started programming Python in early 2000s, I was stunned how easy-to-read and informative the official tutorial is. It remains that way to this date: https://docs.python.org/3/tutorial/index.html.
 - @janihell I got a flying start with a hands-on tutorial by Dr. Andrew N. Harrington. The course explains the basics in detail which made the language easy to grasp. https://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html. I’d also recommend Udacity’s free Python courses that are very streamlined and user-friendly. The courses have plenty of small coding puzzles and quizzes that enable you to apply the things you’ve just learned. www.udacity.com
 - @hhamalai Python is easy to learn, but the idiomatic, functional-ish way is the only right way. https://github.com/sfermigier/awesome-functional-python
+
+---
 
 ### Analytics
 
