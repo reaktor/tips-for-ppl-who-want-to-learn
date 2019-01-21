@@ -19,6 +19,10 @@ We did, however, spot some recurring themes that we hope to be able to help with
 
 Huge thanks to all Reaktorians who offered their help!
 
+#### How to contribute
+
+This document is meant to never be complete. That's why we need your input! If there's anything that you'd always wanted to know but have hesitated to ask, this is the place to get an answer. You can post [an issue](https://github.com/reaktor/tips-for-ppl-who-want-to-learn/issues) detailing what it is that's on your mind and we'll try and get it answered.
+
 ---
 
 ### Career progress
