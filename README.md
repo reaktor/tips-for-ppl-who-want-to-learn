@@ -1,5 +1,16 @@
 # These are our Tips For People Who Want To Learn
 
+1. [Foreword](#user-content-foreword)
+1. [Career progress](#user-content-career-progress)
+1. [Methods and working practices](#user-content-methods-and-working-practices)
+1. [Directions for learning](#user-content-directions-for-learning)
+1. [Core Software Engineering skills](#user-content-core-software-engineering-skills)
+1. [Web Technologies](#user-content-web-technologies)
+1. [Cloud and infrastructure skills](#user-content-cloud-and-infrastructure-skills)
+1. [Mobile development](#user-content-mobile-development)
+1. [Getting started with ML, AI (popular!)](#user-content-getting-started-with-ml-ai-popular)
+1. [Analytics](#user-content-analytics)
+
 ### Foreword
 
 This started when we offered free sparring sessions with our experts for anyone (developers, designers, consultants..)  in the [Reaktor Development Discussion](https://www.kehittymiskeskustelu.fi/en/) campaign. We quicky got a whopping 255 applications and were obviously not able to meet everyone in person.
