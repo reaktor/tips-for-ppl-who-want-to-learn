@@ -206,7 +206,19 @@ For more about good test automation, I suggest reading about [software testing a
 - Uber – https://www.youtube.com/watch?v=qJnS-EfIIIE
 - Atlassian – https://www.youtube.com/watch?v=LMguiL0a90I
 
-#### Building systems with good data security
+#### Networking and Data Security
+
+@raimohanska As a developer, especially when working with anything related to the Internet or the WWW, you'll want to know you Networking, TCP/IP, HTTP and Data Security. A basic understanding of cryptography won't hurt either. Here are some learning tips from my collagues.
+
+- @sluukkonen and @JaniL recommend [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149) which is also part of the curriculum in Helsinki University
+- @kiesila This is excellent for networking: [Computer Networks by Andrew S. Tanenbaum](https://www.amazon.com/Computer-Networks-Tanenbaum-International-Economy/dp/9332518742) (Plus you get the chance to read stuff from one of the giants of CS, plus the man behind notorious comments about Linux...)
+- @timorantalaiho I studied networking basics from [TCP/IP Network Administration by Craig Hunt](http://shop.oreilly.com/product/9780596002978.do)
+- @jkseppan check out [TCP/IP Illustrated by W. Richard Stevens](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
+- @joonamo [OWASP Top 10 Most Critical Web Application Security Risks](https://github.com/OWASP/Top10/blob/master/2017/OWASP%20Top%2010-2017%20(en).pdf)
+- @raimohanska check out [Web Application Hacker's Handbook](http://mdsec.net/wahh/) for in-depth knowledge of security breaches, attacks and defenses
+- @jkseppan if you're ever tempted to roll your own crypto, working through even a few of these exercises should give you an idea of what you are up against: [cryptopals.com](https://cryptopals.com/)
+- @pihvi [Cloudflare Blog](https://blog.cloudflare.com/)
+
 #### Build tools and pipelines
 #### Assessing different architecture/technological options
 
