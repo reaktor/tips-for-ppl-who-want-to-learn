@@ -121,7 +121,7 @@ Here are some basics I'd make sure to cover at some depth, at least.
 
 More specific skills (too name a few)
 
-- Web and networking fundamentals. HTTP(S), TCP, TLS, REST, HTML, XML, JSON, CORS...
+- [Web and networking fundamentals](#networking-and-data-security). HTTP(S), TCP, TLS, REST, HTML, XML, JSON, CORS etc. 
 - Cloud infrastructure understanding and automation skills
 - Web / mobile frontend skills with different technologies
 - Architecture of large-scale distributed systems
