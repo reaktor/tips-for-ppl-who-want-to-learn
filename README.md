@@ -240,8 +240,8 @@ For more about good test automation, I suggest reading about [software testing a
 - @raimohanska check out [Web Application Hacker's Handbook](http://mdsec.net/wahh/) for in-depth knowledge of security breaches, attacks and defenses
 - @jkseppan if you're ever tempted to roll your own crypto, working through even a few of these exercises should give you an idea of what you are up against: [cryptopals.com](https://cryptopals.com/)
 - @pihvi [Cloudflare Blog](https://blog.cloudflare.com/)
-- @miso For security, follow a few blogs (https://krebsonsecurity.com/, https://www.schneier.com/, https://www.troyhunt.com/), visit meetups, attend conferences
-- @miso The OWASP Secure coding practices page has some useful information for defensive coding (https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide)
+- @mwing For security, follow a few blogs (https://krebsonsecurity.com/, https://www.schneier.com/, https://www.troyhunt.com/), visit meetups, attend conferences
+- @mwing The OWASP Secure coding practices page has some useful information for defensive coding ([https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide)
 
 #### Build tools and pipelines
 #### Assessing different architecture/technological options
