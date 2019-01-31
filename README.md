@@ -128,6 +128,9 @@ More specific skills (too name a few)
 - Unix system and command-line skills
 - Databases, different flavors including relational, document storage, data warehouses, ACID, consistency models, scalability, replication, sharding...
 
+@mwing:
+- Understanding of SSL certificates and why you'd better serve everything over SSL (https://www.troyhunt.com/heres-why-your-static-website-needs-https/)
+
 #### What kind of workplace should I seek, to learn better
 
 @cryptotommi-joentakanen:
@@ -144,6 +147,23 @@ More specific skills (too name a few)
 
 @raimohanska Make sure understand the relatively static basics first and check my ["skills list"](#skills-and-technologies-to-learn-to-get-a-job-popular). Then consider your definition of full-stack: mine includes not only frontend and backend javascript. My kind of full-stack developer knows how to deliver value to their customers (be they inhouse or a client) by not only considering the *how* but also making sure you have a common understanding on *what* are the most important things to do. Yet, to get back to actual developer skills, you should have a solid [understanding of web technologies](#understanding-web-technologies), networking, runtime infrastructure, databases etc. It's good to know your tools under the hood, but also to know more than one tool for the job. Get out of your comfort zone and keep learning.
 
+@mwing: My shortlist for skills and technologies for a "full-stack developer", more of these in the Web Technologies section.
+Frontend techs:
+- Javascript (native, but why not some of the different dialects/languages such as TypeScript)
+- React.js
+- CSS3 (especially Flexbox, maybe even CSS Grid)
+
+Backend:
+- A language or a few for doing backend developlent (Node.Js, Java, Scala, Clojure, C#, F#, pick your poison)
+- Databases, yes even NoSQL to understand when to use on and especially when not to use one
+- Understanding of web server software (apache, nginx..)
+- Understanding of the server OS, mainly Linux nowdays
+- Networking, especially when working with cloud providers 
+- Cloud providers, the knowledge is transferrable as long as you understand how for example AWS is used 
+
+@mwing: Not at all required, but I've found that learning to use keyboard shortcuts of the programs you use as much as possible can free you from derailing your train of thought by having to switch between the keyboard and mouse / trackpad. IDE's nowdays come with thousands of features and learning shortcuts for all of them is impossible but you'll most likely use a handful of them 90% of time.
+
+
 #### What should I learn to diversify my skills
 @cryptotommi-joentakanen:
 - Game theory
@@ -151,6 +171,8 @@ More specific skills (too name a few)
 - Marketing
 - Personal branding
 - Social Dynamics
+
+@mwing: I've found out that a developer should understand at least the basics of UX as you might end up somewhere without anyone with UX skills
 
 #### Learning resources
 Some were seeking the best resources for learning in general, but this is something we’ll address through our answers to more specific questions below.
@@ -218,6 +240,8 @@ For more about good test automation, I suggest reading about [software testing a
 - @raimohanska check out [Web Application Hacker's Handbook](http://mdsec.net/wahh/) for in-depth knowledge of security breaches, attacks and defenses
 - @jkseppan if you're ever tempted to roll your own crypto, working through even a few of these exercises should give you an idea of what you are up against: [cryptopals.com](https://cryptopals.com/)
 - @pihvi [Cloudflare Blog](https://blog.cloudflare.com/)
+- @miso For security, follow a few blogs (https://krebsonsecurity.com/, https://www.schneier.com/, https://www.troyhunt.com/), visit meetups, attend conferences
+- @miso The OWASP Secure coding practices page has some useful information for defensive coding (https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide)
 
 #### Build tools and pipelines
 #### Assessing different architecture/technological options
@@ -257,6 +281,8 @@ Also, make sure you have enough information to make your decision and be prepare
 #### Backend skills
 
 @eagleflo Take time to learn SQL. It’s one of those gifts from the early 70s, and it’s not going anywhere. It doesn’t take that much time to grok how relational databases work, and that skill will come in handy in basically every backend project you ever work on. You don’t have to become a full-fledged DBA in order to be confident in your ability to design sane schemas, migrating insane legacy schemas towards sanity, and writing efficient queries. Also, check this out: https://use-the-index-luke.com/
+
+@mwing: You'll most likely work a lot with Unix/Linux servers, so an understanding on how to configure and maintain a server is really helpful. Learn to use the command line efficiently and understand the Unix philosofy (https://en.wikipedia.org/wiki/Unix_philosophy)
 
 #### Developing scalable web services
 
@@ -305,6 +331,7 @@ Then, some very specific technologies were mentioned quite a few times too, incl
 
 #### Webpack
 @raimohanska One of the go-to tools you’ll want to integrate into your web application toolchain. Comes with create-react-app for instance and is worth understanding properly. In general, you should understand how your application is put together, even though using easy boilerplate tools.
+
 #### React and related technologies
 @raimohanska I suggest you understand the basics of web technology, including Javascript and the DOM before reaching for tools like React. Yet, learning React makes sense and is worth investing your time into!
 
@@ -319,6 +346,7 @@ My recommendation is to first use just Redux without any other plugins for it, a
 
 #### Node.js
 @raimohanska If you understand the basics of web techonologies in general and know your Javascript, Node.js is a good fit for your simple server-side needs. Make sure you understand how it works though. Know your callbacks, promises and async-await.
+
 #### Javascript Promises
 @raimohanska Promises are now part of the ES standard and you should master them. The async-await syntax makes their use easier to understand and less error-prone, but make sure you understand how promises work underneath, too.
 
