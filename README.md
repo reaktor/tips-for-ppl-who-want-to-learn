@@ -66,7 +66,7 @@ Many seem to be interested in learning Agile methods and modern working practice
     - Reinventing Organizations
         - Frederic Laloux - https://www.youtube.com/watch?v=gcS04BI2sbk
         - Book: https://www.amazon.com/Reinventing-Organizations-Frederic-Laloux/dp/2960133501/ref=sr_1_1?ie=UTF8&qid=1544606623&sr=8-1&keywords=reinventing+organizations
-    - Holocracy
+    - Holacracy
         - Brian Robertson - https://www.youtube.com/watch?v=tJxfJGo-vkI
         - Book: https://www.amazon.com/Holacracy-Management-System-Rapidly-Changing/dp/162779428X/ref=sr_1_1?ie=UTF8&qid=1544606636&sr=8-1&keywords=holacracy
 - Could be the next paradigm after Teal:
