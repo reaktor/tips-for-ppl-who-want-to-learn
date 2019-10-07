@@ -103,7 +103,7 @@ Many asked for directions for learning. Here are some popular questions and some
 #### Skills and technologies to learn to get a job! (popular!)
 ... and relatedly, how to get a job without previous working experience?
 
-@raimohanska To land a job as a coder, make sure you've got your basics covered. Build a portfolio (on Github or similar) of your work. This implies that you need to have done some coding! If you haven't pick something interesting and build it. Then show it off. The deeper and more diverse skills you can demonstrate the better. Always remember to write a README for any repository to point out what this is about, what tecnhologies you're using and why. And how to build and run your application. Write a CV that points our your key skills and achievements and *what you actually want do do*. Be sure to include language (spoken and written) skills and place of residence!
+@raimohanska To land a job as a coder, make sure you've got your basics covered. Build a portfolio (on Github or similar) of your work. This implies that you need to have done some coding! If you haven't pick something interesting and build it. Then show it off. The deeper and more diverse skills you can demonstrate the better. Always remember to write a README for any repository to point out what this is about, what technologies you're using and why. And how to build and run your application. Write a CV that points our your key skills and achievements and *what you actually want do do*. Be sure to include language (spoken and written) skills and place of residence!
 
 Here are some basics I'd make sure to cover at some depth, at least.
 
