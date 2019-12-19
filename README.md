@@ -201,9 +201,13 @@ I classified some questions and topics into Core Software Engineering skills, be
 
 @raimohanska Then some more functional-programming oriented books:
 
-- SICP, i.e [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html) now freely available online
+- SICP, i.e [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html) now freely available online. Uses Scheme Lisp as the programming language.
+- [Javascript version of SICP](https://sicp.comp.nus.edu.sg/)
 - [Programming in Scala](https://deanwampler.github.io/books/programmingscala2.html)
 - [Real World Haskell](http://book.realworldhaskell.org/)
+- [Functional Javascript](https://www.amazon.com/Functional-JavaScript-Introducing-Programming-Underscore-js/dp/1449360726) by Michael Fogus
+- [Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
+- More on our [Functional Programming Reading List](https://github.com/reaktor/fp-reading-list)
 
 @auramo points out a couple of "programming philosophy" presentations for the "post-object-oriented" world.
 - The Value of Values with Rich Hickey https://www.youtube.com/watch?v=-6BsiVyC1kM
