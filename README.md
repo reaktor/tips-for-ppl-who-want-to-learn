@@ -326,6 +326,10 @@ Javascript skills in general are highly useful in all things web, as you can use
 
 @kettuniko The Event Loop is one of the fundamental things in JavaScript runtimes, and understanding it will help you with your day-to-day development tasks. Watch Jake Archibald's great presentation about how browser's event loop works https://www.youtube.com/watch?v=cCOL7MC4Pl0
 
+@jonikanerva Recommends [The Javascript Allonge](https://leanpub.com/javascriptallongesix/read)
+
+@raimohanska Nowadays a lot of Javascript development has seemed to moved to static typing with TypeScript. It's definitely worth checking out. You might want to start with reading [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html).
+
 #### Random tips
 Some randomish tips from our experts for web development:
 
