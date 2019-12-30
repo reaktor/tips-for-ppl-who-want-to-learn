@@ -193,7 +193,7 @@ I classified some questions and topics into Core Software Engineering skills, be
 
 #### Recommendations
 
-First, the [Teach Yourself Computer Science](https://teachyourselfcs.com/) site recommended by @jussisaurio and others gives an excellent overview on the field, along with great recommendatations for learning resources.
+First, the [Teach Yourself Computer Science](https://teachyourselfcs.com/) site recommended by @jussisaurio and others gives an excellent overview on the field, along with great recommendations for learning resources.
 
 @raimohanska Here are some books that have influenced me. They are a bit old (as I too) and object oriented but the main principles still hold and are probably still worth a look:
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Uncle Bob
