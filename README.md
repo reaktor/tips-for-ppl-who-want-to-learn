@@ -193,6 +193,8 @@ I classified some questions and topics into Core Software Engineering skills, be
 
 #### Recommendations
 
+First, the [Teach Yourself Computer Science](https://teachyourselfcs.com/) site recommended by @jussisaurio and others gives an excellent overview on the field, along with great recommendatations for learning resources.
+
 @raimohanska Here are some books that have influenced me. They are a bit old (as I too) and object oriented but the main principles still hold and are probably still worth a look:
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Uncle Bob
 - [Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
@@ -217,6 +219,8 @@ https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321
 - Also Steve Yegge's rants, highly opinionated, have been very influential. For example: https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html
 
 @eagleflow I’ve read http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/ multiple times. Everyone who is interested in programming language design should read it. tl;dr: there are costs to introducing additional colors of functions to your codebase. Weight the options carefully.
+
+@srosenda: For bottom-up learning I recommend wholeheartedly [Ben Eater’s video lessons](https://eater.net/) and [Nand to Tetris](https://www.nand2tetris.org/).
 
 #### Test automation
 
