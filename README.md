@@ -79,8 +79,8 @@ Many seem to be interested in learning Agile methods and modern working practice
 - Systems Thinking:
     - Russ Ackoff – https://www.youtube.com/watch?v=OqEeIG8aPPk
     - Peter Sange – https://www.youtube.com/watch?v=0QtQqZ6Q5-o
-- Motivation- Pan Pink – https://www.youtube.com/watch?v=u6XAPnuFjJc
-- Business Agility -Jim Highsmith – https://www.youtube.com/watch?v=EEj6zVipqq0
+- Motivation - Daniel Pink – https://www.youtube.com/watch?v=u6XAPnuFjJc
+- Business Agility - Jim Highsmith – https://www.youtube.com/watch?v=EEj6zVipqq0
 - Lean Startup - Eric Ries – https://www.youtube.com/watch?v=fEvKo90qBns
 - Blogs of Reaktorians:
     - Jarkko Kailanto: https://coachjarkko.com/
