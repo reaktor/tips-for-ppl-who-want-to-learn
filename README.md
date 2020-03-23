@@ -191,7 +191,7 @@ Yet, as @cryptotommi-joentakanen said: Can’t beat books, if you had to choose 
 
 I classified some questions and topics into Core Software Engineering skills, because they are relevant in all kinds of software development, whether it's embedded, web, cloud or mobile.
 
-#### Recommendations
+#### General Recommendations
 
 First, the [Teach Yourself Computer Science](https://teachyourselfcs.com/) site recommended by @jussisaurio and others gives an excellent overview on the field, along with great recommendations for learning resources.
 
@@ -200,16 +200,6 @@ First, the [Teach Yourself Computer Science](https://teachyourselfcs.com/) site 
 - [Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 - [Design Patterns - Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8) by the "gang of four"
 - [Refactoring](https://martinfowler.com/books/refactoring.html) by Martin Fowler
-
-@raimohanska Then some more functional-programming oriented books:
-
-- SICP, i.e [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html) now freely available online. Uses Scheme Lisp as the programming language.
-- [Javascript version of SICP](https://sicp.comp.nus.edu.sg/)
-- [Programming in Scala](https://deanwampler.github.io/books/programmingscala2.html)
-- [Real World Haskell](http://book.realworldhaskell.org/)
-- [Functional Javascript](https://www.amazon.com/Functional-JavaScript-Introducing-Programming-Underscore-js/dp/1449360726) by Michael Fogus
-- [Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
-- More on our [Functional Programming Reading List](https://github.com/reaktor/fp-reading-list)
 
 @auramo points out a couple of "programming philosophy" presentations for the "post-object-oriented" world.
 - The Value of Values with Rich Hickey https://www.youtube.com/watch?v=-6BsiVyC1kM
@@ -221,6 +211,27 @@ https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321
 @eagleflow I’ve read http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/ multiple times. Everyone who is interested in programming language design should read it. tl;dr: there are costs to introducing additional colors of functions to your codebase. Weight the options carefully.
 
 @srosenda: For bottom-up learning I recommend wholeheartedly [Ben Eater’s video lessons](https://eater.net/) and [Nand to Tetris](https://www.nand2tetris.org/).
+
+#### Programming Fundamentals
+
+These are especially recommended for self-taught programmers who feel they might want to beef up their understanding on the theoretical side of computer programming.
+
+- @lauripiispanen: Stanford's [Algorithms](https://www.coursera.org/specializations/algorithms) on Coursera
+- @RikuMantysalo: Harvard's [CS50](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
+- @erikssa3: [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/)
+- @jlehva: [Programming Languages: Principles and Paradigms](https://www.springer.com/gp/book/9781848829138) and Arto Wikla's [Ohjelmointikielten periaatteet](https://www.cs.helsinki.fi/u/wikla/OKP/S19/) at the University of Helsinki
+
+#### Functional programming
+
+@raimohanska Then some more functional-programming oriented books:
+
+- SICP, i.e [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html) now freely available online. Uses Scheme Lisp as the programming language.
+- [Javascript version of SICP](https://sicp.comp.nus.edu.sg/)
+- [Programming in Scala](https://deanwampler.github.io/books/programmingscala2.html)
+- [Real World Haskell](http://book.realworldhaskell.org/)
+- [Functional Javascript](https://www.amazon.com/Functional-JavaScript-Introducing-Programming-Underscore-js/dp/1449360726) by Michael Fogus
+- [Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
+- More on our [Functional Programming Reading List](https://github.com/reaktor/fp-reading-list)
 
 #### Test automation
 
