@@ -513,40 +513,40 @@ As an added bonus, we compiled a list of tech-related YouTube-channels that we, 
 @teijo
 
 - Computer hardware
-    - Ben Eater https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA
+    - Ben Eater (computer from scratch) https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA
 - Construction
-    - Essential Craftsman https://www.youtube.com/channel/UCzr30osBdTmuFUS8IfXtXmg
-    - Practical Engineering https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ
+    - Essential Craftsman (blacksmithing, construction) https://www.youtube.com/channel/UCzr30osBdTmuFUS8IfXtXmg
+    - Practical Engineering (civil engineering) https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ
 - Design
     - Game Maker's Toolkit https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw
 - Electronics
     - EEVblog https://www.youtube.com/channel/UC2DjFE7Xf11URZqWBigcVOQ
-    - ElectroBOOM  https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA
+    - ElectroBOOM (edutainment) https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA
     - Fran Blanche https://www.youtube.com/user/ContourCorsets
     - Jeri Ellsworth https://www.youtube.com/user/jeriellsworth
-    - Kaizer Power Electronics https://www.youtube.com/channel/UCSukTlgTEWiL-sl0UeYeJvQ
+    - Kaizer Power Electronics (RF and high power gear) https://www.youtube.com/channel/UCSukTlgTEWiL-sl0UeYeJvQ
     - Mr Carlson's Lab https://www.youtube.com/channel/UCU9SoQxJewrWb_3GxeteQPA
-    - Robert Feranec https://www.youtube.com/channel/UCJQkHVpk3A8bgDmPlJlOJOA
+    - Robert Feranec (PBC design) https://www.youtube.com/channel/UCJQkHVpk3A8bgDmPlJlOJOA
     - mikeselectricstuff https://www.youtube.com/channel/UCcs0ZkP_as4PpHDhFcmCHyA
 - History
     - AT&T Tech Channel https://www.youtube.com/channel/UCnpDurxReTSpFs5-AhDo8Kg
     - Nostalgia Nerd https://www.youtube.com/user/nostalgianerdvideos
-    - PeninsulaSrsVideos https://www.youtube.com/channel/UChYBaJlXRd8-f9Ejz7nf6uw
-    - Technology Connections https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q
+    - PeninsulaSrsVideos (military aviation) https://www.youtube.com/channel/UChYBaJlXRd8-f9Ejz7nf6uw
+    - Technology Connections (legacy home entertainment technologies) https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q
 - Mechanical engineering
-    - Abom79 https://www.youtube.com/user/Abom79
-    - AgentJayZ https://www.youtube.com/channel/UCh57rwk3ySElDpzgCDLh9KA
-    - JoergSprave  https://www.youtube.com/channel/UCVZlxkKqlvVqzRJXhAGq42Q
-    - This Old Tony https://www.youtube.com/channel/UC5NO8MgTQKHAWXp6z8Xl7yQ
+    - Abom79 (machining) https://www.youtube.com/user/Abom79
+    - AgentJayZ (jet engines) https://www.youtube.com/channel/UCh57rwk3ySElDpzgCDLh9KA
+    - JoergSprave (Slingshot Channel) https://www.youtube.com/channel/UCVZlxkKqlvVqzRJXhAGq42Q
+    - This Old Tony (machining) https://www.youtube.com/channel/UC5NO8MgTQKHAWXp6z8Xl7yQ
     - Watch Repair Channel https://www.youtube.com/user/jewldood/videos
-    - thang010146 https://www.youtube.com/channel/UCli_RJkGWfZvw4IlDLHNCQg
+    - thang010146 (mechanisms) https://www.youtube.com/channel/UCli_RJkGWfZvw4IlDLHNCQg
 - Misc
     - Applied Science https://www.youtube.com/channel/UCivA7_KLKWo43tFcCkFvydw
     - Real Engineering https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg
-    - Scott Manley https://www.youtube.com/channel/UCxzC4EngIsMrPmbm6Nxvb-A
-    - styropyro https://www.youtube.com/channel/UCJYJgj7rzsn0vdR7fkgjuIA
+    - Scott Manley (space) https://www.youtube.com/channel/UCxzC4EngIsMrPmbm6Nxvb-A
+    - styropyro (lasers) https://www.youtube.com/channel/UCJYJgj7rzsn0vdR7fkgjuIA
 - RF
-    - TRX Bench https://www.youtube.com/user/TRXBench
-    - The Signal Path https://www.youtube.com/channel/UCKxRARSpahF1Mt-2vbPug-g
-    - W0QE https://www.youtube.com/channel/UCKSyLSu4fm_1RHoO3Jvk4YQ
-    - w2aew  https://www.youtube.com/channel/UCiqd3GLTluk2s_IBt7p_LjA
+    - TRX Bench (repairs) https://www.youtube.com/user/TRXBench
+    - The Signal Path (high end experiments, repairs, and gear) https://www.youtube.com/channel/UCKxRARSpahF1Mt-2vbPug-g
+    - W0QE (RF simulations) https://www.youtube.com/channel/UCKSyLSu4fm_1RHoO3Jvk4YQ
+    - w2aew https://www.youtube.com/channel/UCiqd3GLTluk2s_IBt7p_LjA
