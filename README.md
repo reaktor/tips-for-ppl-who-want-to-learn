@@ -406,8 +406,16 @@ I think @jylitalo's answer to the next question is very relevant when talking ab
 
 @raimohanska First off, get an overall understanding on the AWS service offering and architecture. Then, familiarize yourself with the concept of Infrastructure as Code and learn to use an automation tool (CloudFormation or Terraform) and build a system using that. Using automation tools you can repeatedly set up and tear down your whole infrastructure and get separate, identical, test and production environments without code duplication.
 
-#### Kubernetes
 #### Containers/docker
+
+@raimohanska Here's some entry-level stuff for getting into grips of what containers are and how Docker and Kubernetes fit into the picture. It's good to know the relationships between things before just `docker run`.
+
+- [What are containers](https://jvns.ca/blog/2016/10/10/what-even-is-a-container/) (spoiler: they are Linux + cgroups)
+- [Container runtimes and Docker](https://www.ianlewis.org/en/container-runtimes-part-1-introduction-container-r)
+
+#### Kubernetes
+
+
 #### Kafka
 
 ---
