@@ -415,6 +415,11 @@ I think @jylitalo's answer to the next question is very relevant when talking ab
 
 #### Kubernetes
 
+[@lauripiispanen](https://github.com/lauripiispanen): Kubernetes is a "container orchestration system for automating application deployment, scaling, and management". There are other solutions for the same problem, but as of Mar 2020 Kubernetes is by far the most popular. As per its definition, Kubernetes is a complex system. My recommendation is that if you're thinking "should I use Kubernetes", the answer in 99% of the cases is "no" (see other "serverless container engines" such as [AWS Fargate](https://aws.amazon.com/fargate/)). Also, even if you use Kubernetes, in 99% of the cases you do not wish to host one yourself (see [GKE](https://cloud.google.com/kubernetes-engine), [EKS](https://aws.amazon.com/eks/) or [AKS](https://azure.microsoft.com/en-us/services/kubernetes-service/)). All that being said, Kubernetes is something that you may be faced with in your career, particularly if you're working with larger IT organizations. Therefore, it is somewhat beneficial to learn how to use it.
+
+There are several online courses for Kubernetes (e.g. [cloud academy](https://cloudacademy.com/learning-paths/cloud-academy-introduction-to-kubernetes-92/)). Additionally, the Cloud Native Computing Foundation offers two certifications: [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/) and [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/). Both of the certifications exams are very hands-on, and they are not easy.
+
+DigitalOcean has a fun exercise/tutorial for [deploying Kubernetes with kubeadm](https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-cluster-using-kubeadm-on-ubuntu-18-04). For added fun, I recommend doing this with a fully infrastructure-as-a-code setup.
 
 #### Kafka
 
