@@ -541,7 +541,7 @@ As an added bonus, we compiled a list of tech-related YouTube-channels that we, 
     - Jeri Ellsworth https://www.youtube.com/user/jeriellsworth
     - Kaizer Power Electronics (RF and high power gear) https://www.youtube.com/channel/UCSukTlgTEWiL-sl0UeYeJvQ
     - Mr Carlson's Lab https://www.youtube.com/channel/UCU9SoQxJewrWb_3GxeteQPA
-    - Robert Feranec (PBC design) https://www.youtube.com/channel/UCJQkHVpk3A8bgDmPlJlOJOA
+    - Robert Feranec (PCB design) https://www.youtube.com/channel/UCJQkHVpk3A8bgDmPlJlOJOA
     - mikeselectricstuff https://www.youtube.com/channel/UCcs0ZkP_as4PpHDhFcmCHyA
 - History
     - AT&T Tech Channel https://www.youtube.com/channel/UCnpDurxReTSpFs5-AhDo8Kg
