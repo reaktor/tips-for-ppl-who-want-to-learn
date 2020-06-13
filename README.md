@@ -565,3 +565,7 @@ As an added bonus, we compiled a list of tech-related YouTube-channels that we, 
     - The Signal Path (high end experiments, repairs, and gear) https://www.youtube.com/channel/UCKxRARSpahF1Mt-2vbPug-g
     - W0QE (RF simulations) https://www.youtube.com/channel/UCKSyLSu4fm_1RHoO3Jvk4YQ
     - w2aew https://www.youtube.com/channel/UCiqd3GLTluk2s_IBt7p_LjA
+- Chemistry
+    - U.S. Chemical Safety and Hazard Investigation Board (accident investigations for chemical industry) https://www.youtube.com/user/USCSB
+    - NileRed (expeirments) https://www.youtube.com/user/TheRedNile
+    - Periodic Videos (history, experiments, academia) https://www.youtube.com/user/periodicvideos
