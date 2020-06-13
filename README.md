@@ -555,6 +555,7 @@ As an added bonus, we compiled a list of tech-related YouTube-channels that we, 
     - This Old Tony (machining) https://www.youtube.com/channel/UC5NO8MgTQKHAWXp6z8Xl7yQ
     - Watch Repair Channel https://www.youtube.com/user/jewldood/videos
     - thang010146 (mechanisms) https://www.youtube.com/channel/UCli_RJkGWfZvw4IlDLHNCQg
+    - oxtoolco (toolmaking) https://www.youtube.com/user/oxtoolco
 - Misc
     - Applied Science https://www.youtube.com/channel/UCivA7_KLKWo43tFcCkFvydw
     - Real Engineering https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg
