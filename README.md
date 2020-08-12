@@ -570,3 +570,8 @@ As an added bonus, we compiled a list of tech-related YouTube-channels that we, 
     - U.S. Chemical Safety and Hazard Investigation Board (accident investigations for chemical industry) https://www.youtube.com/user/USCSB
     - NileRed (expeirments) https://www.youtube.com/user/TheRedNile
     - Periodic Videos (history, experiments, academia) https://www.youtube.com/user/periodicvideos
+    
+@erikssa3
+
+- IppSec (security, pentesting, CTF) https://www.youtube.com/c/ippsec/
+ 
