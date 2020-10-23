@@ -13,7 +13,7 @@
 
 ### Foreword
 
-This started when we offered free sparring sessions with our experts for anyone (developers, designers, consultants..)  in the [Reaktor Development Discussion](https://www.kehittymiskeskustelu.fi/en/) campaign. We quicky got a whopping 255 applications and were obviously not able to meet everyone in person.
+This started when we offered free sparring sessions with our experts for anyone (developers, designers, consultants..)  in the [Reaktor Development Discussion](https://www.kehittymiskeskustelu.fi/en/) campaign. We quickly got a whopping 255 applications and were obviously not able to meet everyone in person.
 
 We did, however, spot some recurring themes that we hope to be able to help with by simply sharing some insights from our team. For instance, there was a lot of demand for learning specific technological skills or more generally, getting tips for what is worth learning and how to find learning resources. Hence, let me present, an assortment of frequently asked questions, with some answers to most of them!
 
