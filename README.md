@@ -292,7 +292,8 @@ Also, make sure you have enough information to make your decision and be prepare
 - @eagleflo Mozilla - Getting started with the Web https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
 - @matthiaskern Eloquent Javascript https://eloquentjavascript.net/index.html
 - @raine Web developer roadmap https://github.com/kamranahmedse/developer-roadmap might be a bit intimidating but gives you an idea on what there is to learn. You don't have to know all this stuff to be productive though!
-- @kenkku The Helsinki University has a good Fullstack MOOC http://moocfi.github.io/courses/2018/fullstack/
+- @kenkku The Helsinki University has a good Fullstack MOOC https://fullstackopen.com/ (edit: updated to 2020 version)
+- @ksnabb Helsinki University has good fullstack courses that can be found [here](https://www.mooc.fi/)
 
 #### How to select frontend tools
 
