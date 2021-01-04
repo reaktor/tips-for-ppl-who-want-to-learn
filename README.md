@@ -212,6 +212,8 @@ https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321
 
 @srosenda: For bottom-up learning I recommend wholeheartedly [Ben Eater’s video lessons](https://eater.net/) and [Nand to Tetris](https://www.nand2tetris.org/).
 
+@raimohanska: Colin S Gordon has a real treasure trove of linked free Computer Science books [here](https://csgordon.github.io/books.html).
+
 #### Programming Fundamentals
 
 These are especially recommended for self-taught programmers who feel they might want to beef up their understanding on the theoretical side of computer programming.
