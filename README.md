@@ -7,6 +7,7 @@
 1. [Core Software Engineering skills](#user-content-core-software-engineering-skills)
 1. [Web Technologies](#user-content-web-technologies)
 1. [Cloud and infrastructure skills](#user-content-cloud-and-infrastructure-skills)
+1. [DevOps](#devops)
 1. [Mobile development](#user-content-mobile-development)
 1. [Getting started with ML, AI (popular!)](#user-content-getting-started-with-ml-ai-popular)
 1. [Analytics](#user-content-analytics)
@@ -427,6 +428,16 @@ There are several online courses for Kubernetes (e.g. [cloud academy](https://cl
 DigitalOcean has a fun exercise/tutorial for [deploying Kubernetes with kubeadm](https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-cluster-using-kubeadm-on-ubuntu-18-04). For added fun, I recommend doing this with a fully infrastructure-as-a-code setup.
 
 #### Kafka
+
+---
+
+### DevOps
+
+Suggestions for a good course/self study resource on CI/CD:
+
+* [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature Series (Fowler))](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
+* Github Actions [documentation](https://docs.github.com/en/actions) 
+* Helsinki University [fullstackopen](https://fullstackopen.com/en/part11) part 11 (added January 2021)
 
 ---
 
