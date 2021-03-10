@@ -457,7 +457,7 @@ To call the API’s you will need to handle the concurrency. Android blocks asyn
 
 #### iOS
 
-@WickedLynx If you go with iOS, you might want to start with this online course and check out this always updated “mega list” for iOS. Don’t let the number of alternatives stop you from starting to learn though!
+@WickedLynx If you go with iOS, you might want to start with this online course and check out this always updated [mega list for iOS](https://github.com/vsouza/awesome-ios). Don’t let the number of alternatives stop you from starting to learn though!
 
 ---
 
