@@ -480,7 +480,6 @@ Asking our experts (and beginners) I got a really varied set of stories how peop
 - @jkseppan My generic advice is "build something [in Python] that interests you and is slightly above your current skill level, repeat until skill level is sufficient". The user interface at https://devdocs.io includes documentation for Python and several interesting libraries, so I recommend keeping it open in a browser and learning how to search effectively.
 - @eagleflo When I first started programming Python in early 2000s, I was stunned how easy-to-read and informative the official tutorial is. It remains that way to this date: https://docs.python.org/3/tutorial/index.html.
 - @janihell I got a flying start with a hands-on tutorial by Dr. Andrew N. Harrington. The course explains the basics in detail which made the language easy to grasp. https://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html. I’d also recommend Udacity’s free Python courses that are very streamlined and user-friendly. The courses have plenty of small coding puzzles and quizzes that enable you to apply the things you’ve just learned. www.udacity.com
-- @hhamalai Python is easy to learn, but the idiomatic, functional-ish way is the only right way. https://github.com/sfermigier/awesome-functional-python
 
 ---
 
