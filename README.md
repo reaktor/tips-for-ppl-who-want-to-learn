@@ -439,6 +439,13 @@ Suggestions for a good course/self study resource on CI/CD:
 * Github Actions [documentation](https://docs.github.com/en/actions) 
 * Helsinki University [fullstackopen](https://fullstackopen.com/en/part11) part 11 (added January 2021)
 
+(added December 2021)
+* https://roadmap.sh/devops this is quite comprehensive roadmap
+* Learn one cloud (with e.g. AWS Solutions Architect associate)
+* Learn one CI/CD tool (e.g. Github Actions, Gitlab CI)
+* Learn one IaaC tool (e.g. Terraform)
+* Learn the main concepts of virtualisation, containers and orchestration. (e.g. what’s the difference between serverless, container, vm and baremetal / difference between EKS, ECS and Fargate / understand how Docker works under the hood
+
 ---
 
 ### Mobile development
