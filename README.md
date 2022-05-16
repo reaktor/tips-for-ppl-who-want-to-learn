@@ -297,6 +297,7 @@ Also, make sure you have enough information to make your decision and be prepare
 - @raine Web developer roadmap https://github.com/kamranahmedse/developer-roadmap might be a bit intimidating but gives you an idea on what there is to learn. You don't have to know all this stuff to be productive though!
 - @kenkku The Helsinki University has a good Fullstack MOOC https://fullstackopen.com/ (edit: updated to 2020 version)
 - @ksnabb Helsinki University has good fullstack courses that can be found [here](https://www.mooc.fi/)
+- @serhatsezer Freecodecamp has really good hands-on articles and video tutorials about [full stack web development](https://www.freecodecamp.org/learn/)
 
 #### How to select frontend tools
 
