@@ -83,6 +83,7 @@ Many seem to be interested in learning Agile methods and modern working practice
 - Motivation - Daniel Pink – https://www.youtube.com/watch?v=u6XAPnuFjJc
 - Business Agility - Jim Highsmith – https://www.youtube.com/watch?v=EEj6zVipqq0
 - Lean Startup - Eric Ries – https://www.youtube.com/watch?v=fEvKo90qBns
+- Silicon Valley Product Group books - https://www.svpg.com/books/
 - Blogs of Reaktorians:
     - Jarkko Kailanto: https://coachjarkko.com/
     - Sami Lilja: https://samililja.wordpress.com/
