@@ -366,6 +366,8 @@ Then, some very specific technologies were mentioned quite a few times too, incl
 #### React and related technologies
 @raimohanska I suggest you understand the basics of web technology, including Javascript and the DOM before reaching for tools like React. Yet, learning React makes sense and is worth investing your time into!
 
+@raimohanska When you've already dirtied (and burned?) your hands with React, you might want to check out the [You Might Not Need an Effect](https://beta.reactjs.org/learn/you-might-not-need-an-effect) article. 
+
 To be really effective with React (or any tech actually) it makes sense to know how it works under the hood. What a better way to achieve this than [Build your own React](https://pomb.us/build-your-own-react/)!
 
 #### Relatedly, Redux and other state management solutions for React
