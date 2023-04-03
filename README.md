@@ -360,9 +360,6 @@ Some randomish tips from our experts for web development:
 
 Then, some very specific technologies were mentioned quite a few times too, including
 
-#### Webpack
-@raimohanska One of the go-to tools you’ll want to integrate into your web application toolchain. Comes with create-react-app for instance and is worth understanding properly. In general, you should understand how your application is put together, even though using easy boilerplate tools.
-
 #### React and related technologies
 @raimohanska I suggest you understand the basics of web technology, including Javascript and the DOM before reaching for tools like React. Yet, learning React makes sense and is worth investing your time into!
 
