@@ -391,7 +391,7 @@ Unsurprisingly, many are seeking to get or stay aboard the cloud infrastructure 
 
 #### Learning cloud architecture skills
 
-@raimohanska The AWS Certified Solutions Architect - Associate [online course](https://www.pluralsight.com/) is a good way to get started with AWS. For me, it's a bit too much geared towards getting certificate, but gives a good overall impression on AWS cloud services. You'll of course need some hands-on experience on top of this but the course definitely gives an overall impression on what's available.
+@raimohanska The AWS Certified Solutions Architect - Associate [online course](https://www.pluralsight.com/paths/aws-certified-solutions-architect-professional-sap-c02) is a good way to get started with AWS. For me, it's a bit too much geared towards getting certificate, but gives a good overall impression on AWS cloud services. You'll of course need some hands-on experience on top of this but the course definitely gives an overall impression on what's available.
 
 #### Future of cloud infrastructure; what to learn to stay relevant
 
